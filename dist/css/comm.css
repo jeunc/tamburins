@@ -772,7 +772,7 @@ footer {
     justify-content: flex-start;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('/images/main/v597_443.png');
+    background-image: url('../../images/main/v597_443.png');
     opacity: 0.8;
 }
 #main .horizontal-scroll::before {
