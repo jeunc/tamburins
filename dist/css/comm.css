@@ -547,6 +547,7 @@ footer {
     left: 0;
     font-size: 16vw;
     z-index: 99;
+    color: #333;
 }
 
 .collection-scroll .container {
